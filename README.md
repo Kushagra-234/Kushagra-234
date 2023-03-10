@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/@kushagr18428248" target="blank"><img src="https://img.shields.io/twitter/follow/@kushagr18428248?logo=twitter&style=for-the-badge" alt="@kushagr18428248" /></a> </p>
 
-- 🔭 I’m currently working on **Github User Analytics.**
+- 🔭 I’m currently working on **ReactJs and DSA.**
 
 - 🌱 I’m currently learning **Vanilla JS,React JS**
 
-- 👨‍💻 All of my projects are available at [portfolio-main-brown-seven.vercel.app](portfolio-main-brown-seven.vercel.app)
+- 👨‍💻 All of my projects are available at [https://portfolio-main-brown-seven.vercel.app/](https://portfolio-main-brown-seven.vercel.app/)
 
 - 💬 Ask me about **React,HTML,CSS,Javascript**
 
