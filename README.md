@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Vanilla JS,React JS**
 
-- 👨‍💻 All of my projects are available at [https://kushagra-234.github.io/portfolio/](https://kushagra-234.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [portfolio-main-brown-seven.vercel.app](portfolio-main-brown-seven.vercel.app)
 
 - 💬 Ask me about **React,HTML,CSS,Javascript**
 
