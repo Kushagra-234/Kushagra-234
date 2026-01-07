@@ -22,7 +22,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Frontend Engineer with 2.5+ years of experience**, currently working at **Treflo**, where I build and ship **production-grade applications**.
+I'm a **Frontend Engineer with 2.5+ years of experience**, currently working at **Treflo**, where I build and optimize complex frontend systems, including a Yeild Grading  **DEX exchange**.
 
 My experience spans across:
 - **SaaS products with large user bases**
