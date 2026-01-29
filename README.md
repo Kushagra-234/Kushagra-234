@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Kushagra Gupta</h1>
 <h3 align="center">Frontend Engineer | React • Next.js • TypeScript</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kushagra-234&label=Profile%20Views&color=0e75b6&style=flat" alt="kushagra-234" />
+</p>
+
 <img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 <p align="center">
@@ -22,7 +26,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Frontend Engineer with 2.5+ years of experience**, currently working at **Treflo**, where I build and optimize complex frontend systems, including a Yeild Grading  **DEX exchange**.
+I'm a **Frontend Engineer with 2.5+ years of experience**, currently working at **Treflo**, where I build and optimize complex frontend systems, including a **Yield Grading DEX exchange**.
 
 My experience spans across:
 - **SaaS products with large user bases**
