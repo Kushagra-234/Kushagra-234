@@ -8,7 +8,7 @@
 <img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 <p align="center">
-  <a href="https://linkedin.com/in/kushagra-gupta" target="_blank">
+  <a href="https://linkedin.com/in/kushagra11" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/Kushagr74150366" target="_blank">
