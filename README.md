@@ -1,111 +1,84 @@
-<h1 align="center">Hi 👋, I'm Kushagra Gupta</h1>
-<h3 align="center">Frontend Engineer | React • Next.js • TypeScript</h3>
-
+<h1 align="center">Kushagra Gupta</h1>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kushagra-234&label=Profile%20Views&color=0e75b6&style=flat" alt="kushagra-234" />
+Frontend Engineer • React • Next.js • TypeScript
 </p>
 
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kushagra-234&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/kushagra11" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/Kushagr74150366" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:kg7741365@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://kushagra02.hashnode.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Hashnode-Blog-2962FF?style=flat&logo=hashnode&logoColor=white" />
+    <img src="https://img.shields.io/badge/Blog-2962FF?style=flat&logo=hashnode&logoColor=white"/>
+  </a>
+  <a href="https://portfolio-main-brown-seven.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-I'm a **Frontend Engineer with 2.5+ years of experience**, currently working at **Treflo**, where I build and optimize complex frontend systems, including a **Yield Grading DEX exchange**.
+Frontend Engineer with 2.5+ years of experience building scalable, performance-focused web applications.
 
-My experience spans across:
-- **SaaS products with large user bases**
-- **Complex frontend systems**
-- **Performance-critical UIs**
-- **Modern frontend architecture**
-
-I focus on writing **clean, scalable, and maintainable frontend code** while keeping performance and user experience in mind.
+I work on complex transaction-heavy systems and high-traffic SaaS platforms, with a strong focus on architecture, performance, and maintainability.
 
 ---
 
-## 🛠 Tech Stack
+## What I Do
 
-**Frontend**
-- React, Next.js, TypeScript
-- JavaScript (ES6+), HTML, CSS, Sass, Tailwind
-
-**State & Data**
-- React Query / SWR  
-- Context API  
-- Centralized API layers
-
-**Web & Integrations**
-- REST APIs  
-- Authentication & protected routes  
-- Web3 integrations (wallets, transactions) when required
-
-**Tooling**
-- Git & GitHub  
-- Webpack, Babel  
+- Build scalable React/Next.js applications with clean architecture  
+- Optimize rendering, state flows, and data-fetching for performance  
+- Design reusable component systems & frontend foundations  
+- Integrate analytics/experimentation tools  
+- Web3 integrations when required (wallets, transactions, multi-network)
 
 ---
 
-## 🚀 Work Experience & Projects
+## Tech Stack
 
-### 🔁 Dexponent (Treflo) — DEX Application
-- Owned and shipped major parts of a **DEX frontend**
-- Built **swap flows**, wallet connection, and network handling
-- Implemented **transaction lifecycle tracking** and UI state sync
-- Optimized React hooks to reduce unnecessary re-renders
-- Worked closely with product and backend teams
+**Core**  
+React • Next.js • TypeScript • JavaScript (ES6+)
 
-### 📊 Saleshandy — SaaS Application
-- Worked on a **large-scale SaaS product**
-- Built and maintained **reusable UI components**
-- Improved frontend performance and code structure
-- Collaborated with designers and backend engineers
-- Shipped features used by **thousands of users**
+**State & Data**  
+Redux Toolkit • React Query • SWR • Context API • Centralized API layer
 
-👉 Portfolio: **https://portfolio-main-brown-seven.vercel.app/**
+**Web & Integrations**  
+REST APIs • Authentication • Protected routes • Web3 (wallet/tx)
+
+**Tooling**  
+Git • Webpack • Babel • Turbopack • esbuild • Vite
 
 ---
 
-## ✍️ Writing
+## Selected Work
 
-I write about **frontend engineering, React concepts, and real debugging experiences**.
+### DEX Frontend
+- Built swap flows & wallet integrations supporting multi-network transactions  
+- Implemented transaction lifecycle tracking (pending → success → failure)  
+- Designed a centralized API layer, reducing redundant API calls by ~30%  
+- Reduced unnecessary re-renders by ~25% via hook + memoization improvements  
 
-📚 Blog: **https://kushagra02.hashnode.dev**
+### SaaS Platform
+- Worked on a product with **200K+ active users**  
+- Built reusable component systems used across multiple modules  
+- Integrated **Howuku (analytics)** and delivered bulk action modals & workflow features  
 
 ---
 
-## 📈 GitHub Stats
+## Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kushagra-234&show_icons=true&cache_seconds=86400" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushagra-234&layout=compact&cache_seconds=86400" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kushagra-234&theme=github-compact&hide_border=true" />
 </p>
 
 ---
 
-## 💬 Ask Me About
-- React & Next.js
-- Frontend performance optimization
-- Component & state architecture
-- Real-world debugging
-
----
-
-⚡ **Fun fact:** I debug faster with music on 🎧
+⚡ Building performance-first frontends for real-world scale.
