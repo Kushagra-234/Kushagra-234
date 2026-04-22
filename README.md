@@ -26,7 +26,7 @@ Frontend Engineer • React • Next.js • TypeScript
 
 ## About
 
-Frontend Engineer with 2.8+ years of experience building scalable, performance-focused web applications.
+Frontend Engineer with 3 years of experience building scalable, performance-focused web applications.
 
 I work on complex transaction-heavy systems and high-traffic SaaS platforms, with a strong focus on architecture, performance, and maintainability.
 
